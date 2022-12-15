@@ -1,16 +1,17 @@
 @charset "UTF-8";
 
 body {
-    background-color: rgb(81, 81, 254);
+    background-color: rgb(52, 52, 255);
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: bolder;
+    font-weight: bold;
     font-size: 1.5em;
 }
 
 header {
-    color: white;
     text-align: center;
+    color: white;
 }
+
 
 section {
     background-color: white;
@@ -21,9 +22,9 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.475);
 }
 
-footer {
-    color: white;
-    text-align: center;
-    font-style: italic;
 
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
 }
